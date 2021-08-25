@@ -7,5 +7,5 @@
 [bar3 - test2.md](test2.md)
 [bar4 - test3.md](test3.md)
 [bar5 - test3.md](test3.md)
-[barTest - test1.md](test1.md)
+[barTest - test1.md](test1.md )
 
