@@ -11,4 +11,6 @@
 [barTest2 - test1.md](test1.md)
 [barTest3 - test1.md](test1.md)
 [barTest4 - test1.md](test1.md)
+[barTest5 - test1.md](test1.md)
+[barTest6 - test1.md](test1.md)
 
