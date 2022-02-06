@@ -15,7 +15,10 @@
             "timeout": 300,
             "runOnAllWithType": [
                 "md"
-            ]
+            ],
+            "settings": {
+                "archivePath": "Archive/Links"
+            }
         }
     ]
 }
