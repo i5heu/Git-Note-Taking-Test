@@ -8,14 +8,14 @@
             "cron": "* * * * *",
             "settings" : {
                 "journalPath": "Journal"
-            },
-                    {
+            }
+        },
+        {
             "name": "SaveLinkAsPdfArchive",
             "timeout": 300,
             "runOnAllWithType": [
                 "md"
             ]
-        }
         }
     ]
 }
