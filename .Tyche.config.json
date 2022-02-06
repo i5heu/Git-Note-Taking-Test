@@ -14,7 +14,7 @@
             "name": "SaveLinkAsPdfArchive",
             "timeout": 300,
             "runOnAllWithType": [
-                "md"
+                "txt"
             ]
         }
     ]
