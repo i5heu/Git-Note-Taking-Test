@@ -1,0 +1,14 @@
+{
+    "repo": "git@github.com:i5heu/Tyche-Test.git",
+    "port": 8080,
+    "loginAttemptResetSeconds": 300,
+    "plugins": [
+        {
+            "name": "Journal",
+            "cron": "* * * * *",
+            "settings" : {
+                "journalPath": "Journal"
+            }
+        }
+    ]
+}
